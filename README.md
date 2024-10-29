@@ -39,23 +39,29 @@ Ensure you have the following installed:
 
 <div align="center">
 
-  [![Project Manager](https://github.com/Mainul-Tarif.png?s=100)](https://github.com/Mainul-Tarif)  
-  [MD Mainul Islam](https://github.com/Mainul-Tarif) &nbsp; &nbsp; 
-  [![Front-End Developer](https://github.com/Tamim3110.png?s=100)](https://github.com/Tamim3110)  
-  [MD Tamim Hossan](https://github.com/Tamim3110) &nbsp; &nbsp; 
-  [![Back-End Developer](https://github.com/Boni694.png?s=100)](https://github.com/Boni694)  
-  [MD Boni Amin](https://github.com/Boni694)  
+  [![Project Manager](https://github.com/Mainul-Tarif.png?s=30)](https://github.com/Mainul-Tarif)  
+  **MD Mainul Islam**  
+  &nbsp;&nbsp;&nbsp;&nbsp;  
+  [![Front-End Developer](https://github.com/Tamim3110.png?s=30)](https://github.com/Tamim3110)  
+  **MD Tamim Hossan**  
+  &nbsp;&nbsp;&nbsp;&nbsp;  
+  [![Back-End Developer](https://github.com/Boni694.png?s=30)](https://github.com/Boni694)  
+  **MD Boni Amin**  
 
 </div>
 
 <div align="center">
 
-  [![Data Structure Architect](https://github.com/mdsuzon-hub.png?s=100)](https://github.com/mdsuzon-hub)  
-  [MD Suzon Mia](https://github.com/mdsuzon-hub) &nbsp; &nbsp; 
-  [![Tester and Optimizer](https://github.com/username5.png?s=100)](https://github.com/username5)  
-  [Himadri Shekhar Piasi](https://github.com/username5)  
+  [![Data Structure Architect](https://github.com/mdsuzon-hub.png?s=30)](https://github.com/mdsuzon-hub)  
+  **MD Suzon Mia**  
+  &nbsp;&nbsp;&nbsp;&nbsp;  
+  [![Tester and Optimizer](https://github.com/username5.png?s=30)](https://github.com/username5)  
+  **Himadri Shekhar Piasi**  
 
 </div>
+
+<br>
+
 
 
 
