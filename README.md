@@ -33,70 +33,49 @@ Ensure you have the following installed:
 - MySQL or MariaDB
 - JSON and AJAX support
 
-
-
 ## 👥 Official Contributors
 
-<div align="center">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
 
-  [![Project Manager](https://github.com/Mainul-Tarif.png?s=30)](https://github.com/Mainul-Tarif)  
-  **MD Mainul Islam**  
-  &nbsp;&nbsp;&nbsp;&nbsp;  
-  [![Front-End Developer](https://github.com/Tamim3110.png?s=30)](https://github.com/Tamim3110)  
-  **MD Tamim Hossan**  
-  &nbsp;&nbsp;&nbsp;&nbsp;  
-  [![Back-End Developer](https://github.com/Boni694.png?s=30)](https://github.com/Boni694)  
-  **MD Boni Amin**  
+  <div style="text-align: center;">
+    <a href="https://github.com/username1">
+      <img src="https://github.com/Mainul-Tarif.png?s=60" alt="Project Manager" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Mainul Islam
+    </a>
+  </div>
 
-</div>
+  <div style="text-align: center;">
+    <a href="https://github.com/username2">
+      <img src="https://github.com/Tamim3110.png?s=60" alt="Front-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Tamim Hossan
+    </a>
+  </div>
 
-<div align="center">
+  <div style="text-align: center;">
+    <a href="https://github.com/username3">
+      <img src="https://github.com/Boni694.png?s=60" alt="Back-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Boni Amin 
+    </a>
+  </div>
 
-  [![Data Structure Architect](https://github.com/mdsuzon-hub.png?s=30)](https://github.com/mdsuzon-hub)  
-  **MD Suzon Mia**  
-  &nbsp;&nbsp;&nbsp;&nbsp;  
-  [![Tester and Optimizer](https://github.com/username5.png?s=30)](https://github.com/username5)  
-  **Himadri Shekhar Piasi**  
+  <div style="text-align: center;">
+    <a href="https://github.com/username4">
+      <img src="https://github.com/mdsuzon-hub.png?s=60" alt="Data Structure Architect" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Suzon Mia
+    </a>
+  </div>
 
-</div>
-
-<br>
-
-## 👥 Official Contributors
-
-<div align="center">
-
-  <a href="https://github.com/Mainul-Tarif">
-    <img src="https://github.com/Mainul-Tarif.png?s=40" alt="Project Manager" style="border-radius: 50%;" width="40" height="40"><br>
-    **MD Mainul Islam**
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/Tamim3110">
-    <img src="https://github.com/Tamim3110.png?s=40" alt="Front-End Developer" style="border-radius: 50%;" width="40" height="40"><br>
-    **MD Tamim Hossan**
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/Boni694">
-    <img src="https://github.com/Boni694.png?s=40" alt="Back-End Developer" style="border-radius: 50%;" width="40" height="40"><br>
-    **MD Boni Amin**
-  </a>
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/mdsuzon-hub">
-    <img src="https://github.com/mdsuzon-hub.png?s=40" alt="Data Structure Architect" style="border-radius: 50%;" width="40" height="40"><br>
-    **MD Suzon Mia**
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/username5">
-    <img src="https://github.com/username5.png?s=40" alt="Tester and Optimizer" style="border-radius: 50%;" width="40" height="40"><br>
-    **Himadri Shekhar Piasi**
-  </a>
+  <div style="text-align: center;">
+    <a href="https://github.com/username5">
+      <img src="https://github.com/username5.png?s=60" alt="Tester and Optimizer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      Himadri Shekhar Pias
+    </a>
+  </div>
 
 </div>
 
