@@ -33,8 +33,58 @@ Ensure you have the following installed:
 - MySQL or MariaDB
 - JSON and AJAX support
 
-### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mdsuzon-hub/CODERX_Hospital-Management-System.git
+
+## 👥 Official Contributors
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+
+  <div style="text-align: center;">
+    <a href="https://github.com/username1">
+      <img src="https://github.com/Mainul-Tarif.png?s=60" alt="Project Manager" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Mainul Islam
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/username2">
+      <img src="https://github.com/Tamim3110.png?s=60" alt="Front-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Tamim Hossan
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/username3">
+      <img src="https://github.com/Boni694.png?s=60" alt="Back-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Boni Amin 
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/username4">
+      <img src="https://github.com/mdsuzon-hub.png?s=60" alt="Data Structure Architect" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      MD Suzon Mia
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/username5">
+      <img src="https://github.com/username5.png?s=60" alt="Tester and Optimizer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <br>
+      Himadri Shekhar Pias
+    </a>
+  </div>
+
+</div>
+
+
+
+## 🎓 University Project
+
+This is a university project implementing a real-world solution to healthcare management using data structures and modern programming practices.
+
+
