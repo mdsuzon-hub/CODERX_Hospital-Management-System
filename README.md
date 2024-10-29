@@ -37,35 +37,35 @@ Ensure you have the following installed:
 
 ## 👥 Official Contributors
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <div style="text-align: center;">
-    <a href="https://github.com/mdsuzon-hub">
-      <img src="https://github.com/mdsuzon-hub.png?s=60" alt="Project Manager" style="border-radius: 50%; width: 60px; height: 60px;">
+    <a href="https://github.com/Mainul-Tarif">
+      <img src="https://github.com/Mainul-Tarif.png?s=100" alt="Project Manager" style="border-radius: 50%; width: 60px; height: 60px;">
       <br>
       MD Mainul Islam
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="https://github.com/username2">
-      <img src="https://github.com/username2.png?s=60" alt="Front-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
+    <a href="https://github.com/Tamim3110">
+      <img src="https://github.com/Tamim3110.png?s=100" alt="Front-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
       <br>
       MD Tamim Hossan
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="https://github.com/username3">
-      <img src="https://github.com/username3.png?s=60" alt="Back-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
+    <a href="https://github.com/Boni694">
+      <img src="https://github.com/Boni694.png?s=100" alt="Back-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
       <br>
-      MD Boni Amin
+      MD Boni Amin 
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="https://github.com/username4">
-      <img src="https://github.com/username4.png?s=60" alt="Data Structure Architect" style="border-radius: 50%; width: 60px; height: 60px;">
+    <a href="https://github.com/mdsuzon-hub">
+      <img src="https://github.com/mdsuzon-hub.png?s=100" alt="Data Structure Architect" style="border-radius: 50%; width: 60px; height: 60px;">
       <br>
       MD Suzon Mia
     </a>
@@ -73,7 +73,7 @@ Ensure you have the following installed:
 
   <div style="text-align: center;">
     <a href="https://github.com/username5">
-      <img src="https://github.com/username5.png?s=60" alt="Tester and Optimizer" style="border-radius: 50%; width: 60px; height: 60px;">
+      <img src="https://github.com/username5.png?s=100" alt="Tester and Optimizer" style="border-radius: 50%; width: 60px; height: 60px;">
       <br>
       Himadri Shekhar Piasi
     </a>
