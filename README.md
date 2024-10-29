@@ -69,14 +69,6 @@ Ensure you have the following installed:
     </a>
   </div>
 
-  <div style="text-align: center;">
-    <a href="https://github.com/username5">
-      <img src="https://github.com/username5.png?s=60" alt="Tester and Optimizer" style="border-radius: 50%; width: 60px; height: 60px;">
-      <br>
-      Himadri Shekhar Pias
-    </a>
-  </div>
-
 </div>
 
 
