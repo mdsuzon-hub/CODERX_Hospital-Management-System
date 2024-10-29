@@ -37,47 +37,23 @@ Ensure you have the following installed:
 
 ## 👥 Official Contributors
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <div style="text-align: center;">
-    <a href="https://github.com/Mainul-Tarif">
-      <img src="https://github.com/Mainul-Tarif.png?s=100" alt="Project Manager" style="border-radius: 50%; width: 60px; height: 60px;">
-      <br>
-      MD Mainul Islam
-    </a>
-  </div>
+  [![Project Manager](https://github.com/Mainul-Tarif.png?s=100)](https://github.com/Mainul-Tarif)  
+  [MD Mainul Islam](https://github.com/Mainul-Tarif) &nbsp; &nbsp; 
+  [![Front-End Developer](https://github.com/Tamim3110.png?s=100)](https://github.com/Tamim3110)  
+  [MD Tamim Hossan](https://github.com/Tamim3110) &nbsp; &nbsp; 
+  [![Back-End Developer](https://github.com/Boni694.png?s=100)](https://github.com/Boni694)  
+  [MD Boni Amin](https://github.com/Boni694)  
 
-  <div style="text-align: center;">
-    <a href="https://github.com/Tamim3110">
-      <img src="https://github.com/Tamim3110.png?s=100" alt="Front-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
-      <br>
-      MD Tamim Hossan
-    </a>
-  </div>
+</div>
 
-  <div style="text-align: center;">
-    <a href="https://github.com/Boni694">
-      <img src="https://github.com/Boni694.png?s=100" alt="Back-End Developer" style="border-radius: 50%; width: 60px; height: 60px;">
-      <br>
-      MD Boni Amin 
-    </a>
-  </div>
+<div align="center">
 
-  <div style="text-align: center;">
-    <a href="https://github.com/mdsuzon-hub">
-      <img src="https://github.com/mdsuzon-hub.png?s=100" alt="Data Structure Architect" style="border-radius: 50%; width: 60px; height: 60px;">
-      <br>
-      MD Suzon Mia
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/username5">
-      <img src="https://github.com/username5.png?s=100" alt="Tester and Optimizer" style="border-radius: 50%; width: 60px; height: 60px;">
-      <br>
-      Himadri Shekhar Piasi
-    </a>
-  </div>
+  [![Data Structure Architect](https://github.com/mdsuzon-hub.png?s=100)](https://github.com/mdsuzon-hub)  
+  [MD Suzon Mia](https://github.com/mdsuzon-hub) &nbsp; &nbsp; 
+  [![Tester and Optimizer](https://github.com/username5.png?s=100)](https://github.com/username5)  
+  [Himadri Shekhar Piasi](https://github.com/username5)  
 
 </div>
 
